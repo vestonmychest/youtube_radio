@@ -18,16 +18,16 @@ YOUTUBE_URL="YOUR_URL"
 KEY="YOUR_KEY"
 
 # Background video for looping 
-BACKGROUND_VIDEO="background_video/rain.mp4"
+BACKGROUND_VIDEO="PATH/TO_YOUR/VIDEO_FILES"
 
 # Background audio for looping
-BACKGROUND_AUDIO="background_audio/artillery.mp3"
+BACKGROUND_AUDIO="PATH/TO_YOUR/AUDIO_FILES"
 
 # Background audio volume
 BACKGROUND_AUDIO_VOLUME="0"
 
 # Music directory 
-MUSIC_DIR="music/lofi"
+MUSIC_DIR="PATH/TO_YOUR/MUSIC_FOLDER"
 
 # Music volume
 MUSIC_VOLUME=1
