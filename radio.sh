@@ -14,8 +14,8 @@ PRESET="fast"
 GOP=3
 
 # YouTube settings
-YOUTUBE_URL="rtmp://a.rtmp.youtube.com/live2"  
-KEY="5hxz-39u9-zaqq-dcsd-a4u8"
+YOUTUBE_URL="YOUR_URL"  
+KEY="YOUR_KEY"
 
 # Background video for looping 
 BACKGROUND_VIDEO="background_video/rain.mp4"
