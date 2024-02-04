@@ -11,7 +11,7 @@ Relative path to the video on your server. Video will loop itself forever as lon
 
 ### BACKGROUND_AUDIO="PATH/TO_YOUR/AUDIO_FILES"
 ### BACKGROUND_AUDIO_VOLUME="0"
-Add e.g. gunshots, talking, etc ABOVE your music or main audio. If you run into the problem "file doesn't exist/can't find the file", set relative path to your main audio and set the BACKGROUND_AUDIO_VOLUME to zero ot below zero.
+Add e.g. gunshots, talking, etc ***ABOVE your music or main audio***. If you run into the problem "file doesn't exist/can't find the file", set relative path to your main audio and set the BACKGROUND_AUDIO_VOLUME to zero ot below zero.
 
 ### MUSIC_DIR="PATH/TO_YOUR/MUSIC_FOLDER"
 ### MUSIC_VOLUME=1
