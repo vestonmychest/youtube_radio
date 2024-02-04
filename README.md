@@ -7,7 +7,7 @@ Youtube --> start streaming --> URl of your stream
 Youtube --> start streaming --> Key for your stream
 
 # BACKGROUND_VIDEO="PATH/TO_YOUR/VIDEO_FILES"
-Relative path to the video on your server. Video will loop itself forever as long as the stream is on. Relative means relative to the position of this script e.g. your script's path is "~/main/radio/stream.sh" and video's path is "~/main/radio/background_video/video.mp4", then relative path to the video in the script would be BACKGROUND_VIDEO="background_video/video.mp4".
+Relative path to the video on your server. Video will loop itself forever as long as the stream is on. Relative means relative to the position of this script e.g. your script's path is "/main/radio/stream.sh" and video's path is "/main/radio/background_video/video.mp4", then relative path to the video in the script would be BACKGROUND_VIDEO="background_video/video.mp4".
 
 
 # BACKGROUND_AUDIO="PATH/TO_YOUR/AUDIO_FILES"
