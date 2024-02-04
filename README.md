@@ -3,8 +3,7 @@
 ### YOUTUBE_URL="YOUR_URL"  
 ### KEY="YOUR_KEY"
 Put your own youtube url and key in these. Youtube url, I think, stays the same for everyone and is "rtmp://a.rtmp.youtube.com/live2", but you can double check it in the same place where you can find the key.
-Youtube --> start streaming --> URl of your stream
-Youtube --> start streaming --> Key for your stream
+Youtube --> start streaming --> URl of your stream/Key for your stream
 
 ### BACKGROUND_VIDEO="PATH/TO_YOUR/VIDEO_FILES"
 Relative path to the video on your server. Video will loop itself forever as long as the stream is on. Relative means relative to the position of this script e.g. your script's path is "/main/radio/stream.sh" and video's path is "/main/radio/background_video/video.mp4", then relative path to the video in the script would be BACKGROUND_VIDEO="background_video/video.mp4".
